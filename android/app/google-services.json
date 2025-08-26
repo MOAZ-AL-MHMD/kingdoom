@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691980749131",
+    "project_id": "pppp-75e4a",
+    "storage_bucket": "pppp-75e4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691980749131:android:5142b419309925fa9b00ce",
+        "android_client_info": {
+          "package_name": "com.example.kingdoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691980749131-9g4509e3j7c0he0k68k2c2ko37usqo17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kingdoom",
+            "certificate_hash": "fedbcd1883df94e53f0fcffa76a8c2fde3ddedfd"
+          }
+        },
+        {
+          "client_id": "691980749131-vs8t2il3jraifl4ps1gdfkuis94uq7bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_G1N6YFnvMIKQpRIUO84RKZVb1ynA1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691980749131-vs8t2il3jraifl4ps1gdfkuis94uq7bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

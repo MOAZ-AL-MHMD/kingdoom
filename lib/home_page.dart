@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
                   ),
                   SizedBox(height: 20),
                   Text(
-                    'مرحباً، ${user?.displayName ?? 'مستخدم'}',
+                    'مرحباً، ${user?.displayName ?? 'مستخدمون'}',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,

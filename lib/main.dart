@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Google Sign-In',
-      theme: ThemeData(primarySwatch: Colors.deepPurple),
+      theme: ThemeData(primarySwatch: Colors.yellow),
       home: AuthWrapper(), // 👈 هنا نقرر الصفحة حسب حالة الدخول
     );
   }
